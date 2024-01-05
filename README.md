@@ -8,8 +8,8 @@ Practice coding front-end getting more and more comfortable with React.js & Tail
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[solution URL here](https://github.com/SoheilTajik/Frontend-Mentor-Blog-preview-card)]
+- Live Site URL: [[live site URL here](https://frontend-mentor-blog-preview-card-six.vercel.app/)]
 
 
 
